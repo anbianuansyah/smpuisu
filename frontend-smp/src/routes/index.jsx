@@ -33,7 +33,7 @@ import RolesEdit from "../views/Admin/Roles/Edit";
 import UsersIndex from "../views/Admin/Users/Index";
 
 //import view users create
-import UsersCreate from "../views/admin/users/create";
+import UsersCreate from "../views/Admin/Users/Create";
 
 //import view users edit
 import UsersEdit from "../views/Admin/Users/Edit";
@@ -51,7 +51,7 @@ import CategoriesEdit from "../views/Admin/Categories/Edit";
 import PostsIndex from "../views/Admin/Posts/Index";
 
 //import view posts create
-import PostsCreate from "../views/admin/posts/create";
+import PostsCreate from "../views/Admin/Posts/Create";
 
 //import view posts edit
 import PostsEdit from "../views/Admin/Posts/Edit";
