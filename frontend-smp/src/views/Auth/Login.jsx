@@ -18,7 +18,7 @@ import toast from "react-hot-toast";
 
 export default function login() {
   //title page
-  document.title = "Login - Admin Desa";
+  document.title = "Login - Admin SMP";
 
   //navigate
   const navigate = useNavigate();
@@ -80,7 +80,7 @@ export default function login() {
       >
         <div className="col-md-7">
           <div className="text-center mb-5">
-            <img src={"/images/logo-jbg.png"} width={"100"} />
+            <img src={"/images/logostikom.png"} width={"100"} />
             <h4>
               <strong className="text-white mt-3">SMP Swasta UISU, Siantar</strong>
             </h4>
