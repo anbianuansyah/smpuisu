@@ -14,7 +14,7 @@ import LayoutAdmin from "../../../layouts/Admin";
 import hasAnyPermission from "../../../utils/Permissions";
 
 //import pagination component
-import Pagination from "../../../components/general/pagination";
+import Pagination from "../../../components/general/Pagination";
 
 //import component slider create
 import SlidersCreate from "./Create";

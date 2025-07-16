@@ -16,7 +16,7 @@ import Loading from "../../../components/general/Loading";
 import CardProduct from "../../../components/general/CardProduct";
 
 //import pagination component
-import Pagination from "../../../components/general/pagination";
+import Pagination from "../../../components/general/Pagination";
 
 export default function WebProductsIndex() {
   //title page

@@ -16,7 +16,7 @@ import Loading from "../../../components/general/Loading";
 import CardPhoto from "../../../components/general/CardPhoto";
 
 //import pagination component
-import Pagination from "../../../components/general/pagination";
+import Pagination from "../../../components/general/Pagination";
 
 export default function WebPhotosIndex() {
   //title page

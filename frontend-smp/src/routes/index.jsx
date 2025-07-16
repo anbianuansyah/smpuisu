@@ -101,7 +101,7 @@ import Home from "../views/Web/Home/Index";
 import WebGurusIndex from "../views/Web/Gurus/Index";
 
 //import view pages index
-import WebPagesIndex from "../views/web/Pages/Index";
+import WebPagesIndex from "../views/Web/Pages/Index";
 
 //import view page show
 import WebPagesShow from "../views/Web/Pages/Show";
